@@ -8,8 +8,8 @@ from lark_oapi.api.im.v1 import CreateMessageRequest, CreateMessageRequestBody
 from lark_oapi.api.core import Config, Client
 
 # === 1. 配置区 (请替换为你自己的信息) ===
-APP_ID = "你的APP_ID"  # 替换为你的飞书机器人App ID
-APP_SECRET = "你的APP_SECRET"  # 替换为你的飞书机器人App Secret
+APP_ID = "cli_a9465268b839dcc2"  # 替换为你的飞书机器人App ID
+APP_SECRET = "zLSzHVEWSaTKI6YNOdQfAeRflMAKKpM1"  # 替换为你的飞书机器人App Secret
 
 # 允许的分类白名单
 ALLOWED_CATEGORIES = ["技术", "管理", "案例", "流程", "制度"]
